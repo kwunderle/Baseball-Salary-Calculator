@@ -1,0 +1,10 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\TieredPlayerSalaryVialF - Katharine Wunderle\bin\Debug\TieredPlayerSalaryVialF - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\TieredPlayerSalaryVialF - Katharine Wunderle\bin\Debug\TieredPlayerSalaryVialF - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\TieredPlayerSalaryVialF - Katharine Wunderle\bin\Debug\TieredPlayerSalaryVialF - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\TieredPlayerSalaryVialF - Katharine Wunderle\obj\Debug\TieredPlayerSalaryVialF - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\TieredPlayerSalaryVialF - Katharine Wunderle\obj\Debug\TieredPlayerSalaryVialF___Katharine_Wunderle.salaryCalc.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\TieredPlayerSalaryVialF - Katharine Wunderle\obj\Debug\TieredPlayerSalaryVialF___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\TieredPlayerSalaryVialF - Katharine Wunderle\obj\Debug\TieredPlayerSalaryVialF - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\TieredPlayerSalaryVialF - Katharine Wunderle\obj\Debug\TieredPlayerSalaryVialF - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\TieredPlayerSalaryVialF - Katharine Wunderle\obj\Debug\TieredPlayerSalaryVialF - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 5\DecisionStructureA - Katharine Wunderle\TieredPlayerSalaryVialF - Katharine Wunderle\obj\Debug\TieredPlayerSalaryVialF - Katharine Wunderle.pdb
